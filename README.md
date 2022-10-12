@@ -3,3 +3,5 @@
 This is my first repo
 ## My skills
 The following are my python skills
+- dict
+- loop
